@@ -1,14 +1,13 @@
 # Java Control Structures Assignment
 
 **Student Name:** Godfrey Munyao  
-**Student Number:** 220217  
-**Course:** DBIT  
-**Unit:** Object Oriented Programming  
+**Student Number:** 220217   
+**Unit:** Introduction to Programming  
 
 ## Description
 This repository contains Java programs demonstrating the six main control structures in Java.
 
-## Control Structures Implemented
+## Control Structures Implemented as well as files included
 - Block Statement
 - If Statement
 - Switch Statement
@@ -16,7 +15,4 @@ This repository contains Java programs demonstrating the six main control struct
 - Do...While Loop
 - For Loop
 
-## Files Included
-- BlockStatementDemo.java
-- IfStatement.java
-- SwitchStatementD
+
